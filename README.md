@@ -1,7 +1,2 @@
 # HUFS_MissingSemester_ToMeetGithubClass
-
-2022 훕스 미싱시매스터 수강하는 김멋사 입니다
-
-2022 훕스 미싱시매스터 수강하는 박멋사 입니다
-
-2022 훕스 미싱시매스터 강의자 고도희 입니다
+2022 HUFS Missing Semester 수강하는 스페인어통번역학과 최보란  입니다.
